@@ -1,0 +1,11 @@
+# Eldos – 2025
+
+[Jahresübersicht](../README.md) · [Alle Jahre](../../README.md)
+
+| Datum (Berliner Zeit) | Video | Aufrufe | Länge | Titel | Beschreibung |
+| --- | --- | ---: | ---: | --- | --- |
+| 2025-11-24 16:04:57 | [15-0 WL Bepanthen Challenge \| !Bepanthen lässt Euch mich griefen \| Längere Sessions = Mehr Wins \#werbung \| !Sub !insta !yt](videos.7z#2626872009.md) | 162.480 | 02:11:24 | Unbesiegt mit blauem Bildschirm: Fifa-Challenge gemeistert | Im Rahmen einer Aktion wurde eine außergewöhnliche Fifa-Challenge absolviert. Es wurde ungeschlagen gespielt, wobei der Bildschirm künstlich beeinträchtigt wurde. Augenschutz war dabei ein zentrales Thema. |
+| 2025-11-03 18:35:44 | [Main Account WL + 5000€ DVAG Cup - Top64 mit Mo &amp; DieHahn \| !sub !snap !Insta !yt !dvag](videos.7z#2608833979.md) | 20.541 | 05:51:30 | Gaming-Event mit 5000€ Preisgeld und Top64 finale | Es wurde ein Großevent im virtuellen Sport veranstaltet. Im Fokus stand ein Turnier mit 5000€ Preisgeld. Eine Top64-Phase wurde erreicht, an der bekannte Personen teilnahmen. |
+| 2025-09-19 01:31:15 | [SUBATHON - Draft FINALE \| LIVE AUS STREAMINGVILLA - FC 26 Start mit den bres](videos.7z#2569890841.md) | 4 | 02:21:46 | FC 26 Draft Finale: Teamaufbau, Strategie und Trading im Fokus | Diskussionen um Teamaufbau, Spielergebnisse und Trading-Strategien prägen das Geschehen. Bingo-Spiel sorgt für Interaktion, während Taktiken und zukünftige Content-Ideen entstehen. |
+| 2025-09-18 22:44:21 | [SUBATHON - Draft FINALE \| LIVE AUS STREAMINGVILLA - FC 26 Start mit den bres](videos.7z#2569770946.md) | 15.150 | 02:22:13 | Technische Probleme beim Start von EA Sports FC 26 | Es wurde mit Schwierigkeiten bei der Aufnahme des Spielbetriebs in der neuen FIFA-Version 26 gerungen. Trotzdem fanden intensive Analysen des Draft-Modus und der Spielmechaniken statt. |
+| 2025-09-18 16:09:42 | [LIVE AUS STREAMINGVILLA - FC 26 Start mit den bres](videos.7z#2569496870.md) | 46.841 | 05:49:49 | Premiere in der Villa: Das neue FIFA-Erlebnis nimmt seinen Lauf | In der Streamingvilla wurde der Start in das neue FIFA 26-Abenteuer begleitet. Es wurde in die schnelle Spielwelt eingetaucht und gleichzeitig die virtuelle Transferbörse ausgekostet. |

@@ -1,0 +1,12 @@
+# BALLERLEAGUE – 2026
+
+[Jahresübersicht](../README.md) · [Alle Jahre](../../README.md)
+
+| Datum (Berliner Zeit) | Video | Aufrufe | Länge | Titel | Beschreibung |
+| --- | --- | ---: | ---: | --- | --- |
+| 2026-05-16 18:59:38 | [Baller League USA - Match Day 10 FINALS - LIVE!](videos.7z#2773545280.md) | 18.237 | 04:16:37 | Ninos sichert sich ersten Baller League USA Titel | In einem spannenden Finale haben die Ninos gegen Club 360 mit 4:2 gewonnen und sich den Titel des ersten Baller League USA Champions gesichert. Das Turnier in Miami endete mit einer feierlichen Ehrung der Siegermannschaft. |
+| 2026-05-14 23:29:48 | [Baller League USA - Match Day 8 - LIVE!](videos.7z#2772077931.md) | 19.024 | 05:18:56 | Ballkampf am 8. Spieltag: Playoffs entschieden | Ein dramatischer Abend in der Baller League USA brachte Klarheit in der Playoff-Rangliste. Mit einem 3:3 gegen Glitch FC sicherten sich die Ninos die Top-Seed Position für die Finals. Midnight Wizards übernahmen mit einem klaren 4:1 gegen Any Means United die Tabellenspitze. Speed United qualifizierte sich durch einen Sieg gegen 8-7-6 für die Playoffs, während M3 nach einer Niederlage gegen Showtime FC unter Druck geriet. |
+| 2026-05-07 23:30:34 | [Baller League USA - Match Day 8 - LIVE!](videos.7z#2766585054.md) | 14.944 | 05:20:47 | Match Day 8 der Baller League USA liefert Spannung und Dramatik | Es wurde ein aufregender Match Day 8 in der Baller League USA gespielt. Mehrere Teams kämpften um wichtige Punkte und veränderten die Tabellensituation deutlich. |
+| 2026-04-30 23:29:41 | [Baller League USA - Match Day 7 - LIVE!](videos.7z#2761007451.md) | 19.470 | 05:11:41 | Baller League USA: Match Day 7 Brings Dramatic Games | Die siebte Spieltag der Baller League USA bietet spannende Duelle und entscheidende Tore. Midnight Wizards erleiden ihre erste Niederlage, während Ninos die Tabellenspitze übernimmt. |
+| 2026-04-23 23:29:33 | [Baller League USA - Match Day 6 - LIVE!](videos.7z#2755401402.md) | 30.908 | 05:12:41 | Baller League Match Day 6 brachte dramatische Duelle | Es wurden spannende Spiele in der sechsten Austragung der Baller League ausgetragen. Siege für Speed United und Midnight Wizards bestimmten das Geschehen. |
+| 2026-04-16 23:29:13 | [Baller League USA - Match Day 5 - LIVE!](videos.7z#2749749797.md) | 14.127 | 05:11:42 | Fünfter Spieltag in der Baller League USA bringt Spannung | Es wurde ein Tag voller dramatischer Momente, herausragender Einzelleistungen und ergebnisoffener Spiele präsentiert. Besonders bemerkenswert war Ralph Monteros Tor als Torhüter. |

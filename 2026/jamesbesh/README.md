@@ -1,0 +1,13 @@
+# jamesbesh – 2026
+
+[Jahresübersicht](../README.md) · [Alle Jahre](../../README.md)
+
+| Datum (Berliner Zeit) | Video | Aufrufe | Länge | Titel | Beschreibung |
+| --- | --- | ---: | ---: | --- | --- |
+| 2026-04-30 21:26:20 | [WIEDER UNTERWEGS OHNE PLAN !!!](videos.7z#2760907782.md) | 751 | 01:27:52 | Persönliche Reflexionen ohne festen Plan | In einem ungestreamten Vorgang wurde eine lockere Unterhaltung mit verschiedenen Personen aufgezeichnet. Dabei wurden persönliche Themen, Zukunftspläne und unvorhergesehene Konfrontationen besprochen, ohne einen festen Ablauf zu beachten. |
+| 2026-04-28 18:55:48 | [AUF SERIÖS IN ESSEN UNTERWEGS](videos.7z#2759210580.md) | 621 | 01:20:07 | Unterwegs in der Stadt: Essen und Begegnungen | In der Öffentlichkeit wurde mit Passanten gesprochen und persönliche Gedanken geteilt. Dabei wurde auch über Essenswahlen und Kleidung diskutiert. |
+| 2026-04-25 22:00:11 | [AUF SERIÖS IN ESSEN UNTERWEGS](videos.7z#2756981062.md) | 1.607 | 02:07:04 | Essen per Pedes: Ein Tag voller unerwarteter Begegnungen | Es wurde ein ungewöhnlicher Tag in Essen erlebt, bei dem ein Döner-Abenteuer, unerwartete Konfrontationen und eine nächtliche Fahrt im Mittelpunkt standen. |
+| 2026-04-22 20:10:14 | [im studio zurück](videos.7z#2754473282.md) | 739 | 01:32:52 | Studio-Return: Pakete geöffnet und Diskussionen angestoßen | Nach einer Abkehr vom Studio wurde an bekannten Ort zurückgekehrt. Zahlreiche Geschenkpakete wurden geöffnet, wobei sowohl interessante Enthüllungen als auch anregende Gespräche über Beziehungen stattfanden. |
+| 2026-04-19 21:56:41 | [AUF SERIÖS DIE STRASSEN UNSICHER MACHEN 🔥](videos.7z#2752218545.md) | 974 | 00:52:14 | Vater und Freundschaft im Mittelpunkt besonderer Begegnung | In einer besonderen Formation trafen sich Vater und Sohn zusammen, um persönliche Geschichten zu teilen. Der schüchterne Vater beeindruckte durch seine ehrlichen Antworten, während ein Freund aus Somalia die Runde komplettierte. |
+| 2026-04-17 22:58:11 | [AUF SERIÖS DIE STRASSEN UNSICHER MACHEN 🔥](videos.7z#2750542247.md) | 951 | 01:08:37 | Öffentlicher Raum: Sicherheit und Seriosität im Fokus | Es wurde in öffentlichen Räumen über Sicherheitsbedürfnisse und seriöses Auftreten gesprochen. Ein besonderes Augenmerk lag auf respektvoller Interaktion mit Passanten und der Bedeutung von Professionalität im Alltag. |
+| 2026-04-14 21:16:06 | [AUF SERIÖS DIE STRASSEN UNSICHER MACHEN 🔥](videos.7z#2748087671.md) | 646 | 01:07:48 | IRL-Stream mit Alltagsinterviews und Beziehungsthemen | Bei einem Stadtrundgang wurden Passanten interviewt und gesellschaftliche Themen diskutiert. Dabei ging es um Dating-Konventionen, Partnerwahl und persönliche Karriereziele. |

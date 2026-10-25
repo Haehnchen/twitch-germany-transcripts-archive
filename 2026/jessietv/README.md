@@ -1,0 +1,12 @@
+# JessieTV – 2026
+
+[Jahresübersicht](../README.md) · [Alle Jahre](../../README.md)
+
+| Datum (Berliner Zeit) | Video | Aufrufe | Länge | Titel | Beschreibung |
+| --- | --- | ---: | ---: | --- | --- |
+| 2026-09-23 17:39:55 | [WINNNING STREAK zu IMMO✨ \|\| \~@jessie\_mizz](videos.7z#2881957209.md) | 1.167 | 04:11:10 | Agent-Mastery-Funktion und Waffen-Diskussion in VALORANT | Es wurde die neue Agent-Mastery-Funktion vorgestellt, durch die Punkte gesammelt werden. Zugleich wurde über die Effektivität der Armordog-Waffe und das Champions Bundle diskutiert. Ein orchestrierter Song hob die Stimmung. |
+| 2026-09-10 18:08:46 | [NEW SKIN zu IMMO GRINDEN!! ✨ \|\| \~@jessie\_mizz](videos.7z#2870464478.md) | 494 | 02:20:50 | Neue Skins im Fokus: Valorant-Einheit mit persönlichen Einblicken | Es wurde Valorant gespielt, wobei neue Skins im Mittelpunkt standen. Zwischen Matches wurden persönliche Geschichten und Alltagsthemen geteilt. |
+| 2026-09-02 17:19:51 | [ZURÜCK zu IMMORTAL GRINDEN! ✨ \|\| \~@jessie\_mizz](videos.7z#2863342624.md) | 786 | 03:13:40 | Valorant-Match mit Koop-Partner, Skin-Diskussionen und Soundproblemen | In einer kürzlich ausgestrahlten Gaming-Sitzung wurde Valorant mit einem Begleiter gespielt. Neben dem Match standen Anpassungen der Audioeinstellungen sowie Gespräche über neue Skins im Fokus. |
+| 2026-08-28 17:19:54 | [ZURÜCK aus DÄNEMARK zu IMMORTAL GRINDEN! ✨ \|\| \~@jessie\_mizz](videos.7z#2858797238.md) | 998 | 02:48:40 | Rückkehr aus dem Urlaub: Neustart im kompetitiven Spiel | Nach einer Auszeit in Dänemark wurde die Rückkehr in die virtuelle Arena angetreten. Der Charakter startete mit einem hohen Rang, doch ein fehlendes Ranking sorgte für Gesprächsstoff. |
+| 2026-08-10 16:29:31 | [zu IMMO GRINDEN! ✨ \|\| \~@jessie\_mizz](videos.7z#2842394603.md) | 1.244 | 04:27:50 | Valorant-Runde mit Musik, Teamarbeit und kritischer Selbstreflexion | In Kooperation mit Mitstreitern wurde Valorant gespielt. Die musikalische Begleitung wurde angepasst, Strategien wurden diskutiert, und die eigene Leistung kritisch hinterfragt. |
+| 2026-08-09 14:01:37 | [zu IMMO GRINDEN! ✨ \|\| \~@jessie\_mizz](videos.7z#2841442036.md) | 1.102 | 03:01:00 | Es wurde VALORANT mit Team gespielt und neues Audio-Equipment besprochen. | Gespielt wurde VALORANT mit dem Team. Neue In-Ears wurden als unangenehm empfunden. Ein 4D-Kinobesuch in Hamburg wurde geschildert. Die Teamkommunikation stand im Fokus. |

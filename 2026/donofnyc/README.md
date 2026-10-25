@@ -1,0 +1,15 @@
+# DONofNYC – 2026
+
+[Jahresübersicht](../README.md) · [Alle Jahre](../../README.md)
+
+| Datum (Berliner Zeit) | Video | Aufrufe | Länge | Titel | Beschreibung |
+| --- | --- | ---: | ---: | --- | --- |
+| 2026-07-25 15:53:50 | [Warzone Fun](videos.7z#2828688397.md) | 1.306 | 01:05:11 | Chaotisches CoD-Abenteuer mit Überraschungsparty und Zombiejäger | Ein unerwarteter Party-Eintritt führt zu einem wilden Schusswechsel: Mit leeren Waffen kämpft der Kanaler gegen Zombies, sammelt Belohnungen und scheitert kläglich am Juggernaut. |
+| 2026-05-16 11:15:57 | [My Stream](videos.7z#2773295763.md) | 2.188 | 01:27:46 | Internationales Gaming-Erlebnis analysiert | Es wurde eine interkulturelle Gaming-Sitzung mit Teilnehmern aus verschiedenen Ländern dokumentiert. Dabei wurden unterschiedliche Spielstile und Taktiken im beliebten Videospiel untersucht und die internationale Vielfalt evaluiert. |
+| 2026-05-15 23:50:28 | [My Stream](videos.7z#2772909940.md) | 8 | 01:26:32 | Neue Spiele Erforscht | Ein Spieler testet verschiedene Spiele, darunter bekannte Kämpfe und eine komplett unbekannte Spielwelt. Gemeinsam mit anderen Teilnehmern werden Taktiken entwickelt, um游戏中 zu überleben. |
+| 2026-05-08 22:27:04 | [My Stream](videos.7z#2767325158.md) | 438 | 00:53:26 | Call of Duty Abenteuer mit unvorhergesehenen Hindernissen | Bei einer Gaming-Runde in der virtuellen Welt von Call of Duty müssen unerwartete Herausforderungen gemeistert werden. Anfängliche Einstellungsprobleme erschweren den Start, während im Spiel selbst intensive Auseinandersetzungen auf dem Programm stehen. |
+| 2026-03-15 14:38:41 | [My Stream](videos.7z#2723007629.md) | 0 | 01:44:38 | Koordinierter Einsatz in einem militärischen Szenario | Es wurde ein taktisches Vorgehen in einem dynamischen Kampfgeschehen beobachtet. Die Kommunikation diente der Koordination und dem Ziel, die Mission erfolgreich zu absolvieren. |
+| 2026-03-07 12:01:53 | [Warzon Zombie Multiplayer👌😁💯](videos.7z#2716086274.md) | 622 | 01:39:26 | Erfolgreicher Einsatz in Call of Duty | Ein Team operierte koordiniert in Gefechtshandlungen, musste aber infolge hoher Verluste und Giftgas einen strategischen Rückzug einleiten. Trotzdem gelang der erfolgreiche Abschluss der Runde. |
+| 2026-02-14 20:53:11 | [\#Zombie 🙏\#High😅 \#Round😉 \#KIP💯❤️ JOBs😍 WERBUNG✋](videos.7z#2697827806.md) | 2.234 | 03:09:03 | Technische Hürden im Zombie-Highround-Modus überwunden | Nach anfänglichen Übertragungsproblemen wurde das Design gewechselt. Der Fokus verlagerte sich auf das Gameplay im Zombie-Modus. |
+| 2026-02-14 19:52:31 | [My Stream](videos.7z#2697775920.md) | 15 | 00:59:39 | Aktion im Fokus: Livestellung von CoD-Inhalten | Es wurde eine durchgehende Präsentation von Inhalten zu Call of Duty veranstaltet. Der Fokus lag ganz auf der spielerischen Darstellung. |
+| 2026-02-07 14:26:34 | [💯😉](videos.7z#2691439764.md) | 1.648 | 03:09:36 | Live-Session mit Call of Duty gestartet | Eine Live-Session wurde mit dem Spiel Call of Duty gestartet. Es wurde mit Fokus auf Gameplay und Teamtaktik gestreamt. Der Fokus lag auf dem Geschehen im Spiel. |

@@ -1,0 +1,14 @@
+# Shurjoka – 2025
+
+[Jahresübersicht](../README.md) · [Alle Jahre](../../README.md)
+
+| Datum (Berliner Zeit) | Video | Aufrufe | Länge | Titel | Beschreibung |
+| --- | --- | ---: | ---: | --- | --- |
+| 2025-12-30 18:00:57 | [Letzter Stream / Hundeupdate / Joy meine Maus &lt;3 / !kofi](videos.7z#2656834759.md) | 13.420 | 02:33:25 | Abschied von Joy und Ankunft von Loki | Es wurde über den schmerzhaften Verlust des Hundes Joy und die darauf folgende Adoption eines neuen Welpen namens Loki berichtet. Der Fokus lag auf der emotionalen Trauer und dem Beginn einer neuen Verantwortung. |
+| 2025-12-19 18:03:55 | [(Vor)letzter Stream dieses Jahr. :) / !kofi](videos.7z#2647890706.md) | 69.609 | 06:56:57 | Letzter Stream des Jahres kündigt Veränderungen an | Es wurde bekannt gegeben, dass es sich um den vorletzten Stream des Jahres handelt. Es wurden zukünftige Pläne für das kommende Jahr angesprochen. |
+| 2025-12-17 18:03:04 | [Das Eumel-Empire / !kofi](videos.7z#2646258416.md) | 75.109 | 06:18:17 | Unregelmäßige Streams und politische Einblicke | shurjoka kündigt unregelmäßige Streams an und spricht über ihren Weg aus der Influencer-Szene. Sie reflektiert über politische Aktivismus und die Konsequenzen unpopulärer Positionen. |
+| 2025-12-11 19:55:30 | [Nanu, ein Gaming Stream? / !kofi](videos.7z#2641261071.md) | 53.467 | 05:18:31 | Politische Debatten und Game-Session: Plötzlicher Wechsel | Es wurde ein langes Gespräch über Politik in Deutschland und alternative Länder geführt. Anschließend wurde ein völlig anderes Spiel gestartet und die Zuschauer aktiv eingebunden. |
+| 2025-12-09 20:09:42 | [Bitte lieber Laptop überhitze nicht / !kofi](videos.7z#2639620276.md) | 60.744 | 04:05:32 | Analyse tödlicher Polizeigewalt in Deutschland | Es wurde eine Crowdfunding-Dokumentation vorgestellt, die tödliche Polizeigewalt in Deutschland analysiert. Fälle wie Lorenz A. und Uri Jalloh werden detailliert beleuchtet, um strukturelle Gemeinsamkeiten aufzudecken. |
+| 2025-12-02 20:00:27 | [Hi Na? / !kofi](videos.7z#2633654922.md) | 43.305 | 02:49:42 | Neuer Lebensabschnitt nach viermonatiger Pause | Nach einer viermonatigen Streaming-Pause wird eine bewusste Neuausrichtung im Leben thematisiert. Der Fokus liegt auf einem gesunden Ausgleich zwischen Hofarbeit und Streaming. |
+| 2025-11-28 21:13:29 | [Hi Na? / !kofi](videos.7z#2630303327.md) | 8.957 | 01:41:18 | Influencer-Pause und politische Analysen | Nach einer viermonatigen Pause wegen Überforderung im Online-Alltag wurden gesellschaftliche und politische Themen im Fokus diskutiert. Die Priorität verlagerte sich auf das Offline-Leben. |
+| 2025-11-28 20:09:06 | [Hi Na? / !kofi](videos.7z#2630251439.md) | 9.672 | 00:59:33 | Nach langer Pause: Comeback nach viermonatiger Abwesenheit | Es wurde nach einer viermonatigen Unterbrechung mit einem Comeback begonnen. Die Rückkehr wurde durch einen Umzug und einen privaten Schicksalsschlag notwendig gemacht. |

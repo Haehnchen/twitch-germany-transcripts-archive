@@ -1,0 +1,13 @@
+# Moondye7 – 2025
+
+[Jahresübersicht](../README.md) · [Alle Jahre](../../README.md)
+
+| Datum (Berliner Zeit) | Video | Aufrufe | Länge | Titel | Beschreibung |
+| --- | --- | ---: | ---: | --- | --- |
+| 2025-12-31 19:29:21 | [Der Bär \[SAUERCROWD\] 5 - 2 Nahtoderfahrungen](videos.7z#2657734707.md) | 57.674 | 12:03:21 | World of Warcraft: Nahtod-Erlebnisse im Fokus | Bei einem Spiel wurde eine beinahe tödliche Situation beschrieben, die auf Teamwork und schnelles Handeln angewiesen war. Die Fehler wurden im Nachgang analysiert. |
+| 2025-12-30 20:54:23 | [Der Bär \[SAUERCROWD\] 4 Nachtaktiv - only 100 parses](videos.7z#2656962951.md) | 49.529 | 09:25:40 | World of Warcraft: Bär Nachtaktiv mit nur 100 Parses | Im World of Warcraft wird ein Bär mit nur 100 Parses gespielt. Es wurde ein Fokus auf Teamwork und Hardcore-Erfolge gezeigt. |
+| 2025-12-28 17:39:36 | [Der Bär \[SAUERCROWD\] Frag mich nach Schawarma !parses](videos.7z#2655140818.md) | 85.851 | 12:25:20 | Emotionales WoW-Abenteuer mit Schawarma-Vergnügen | Ein Streamer kombiniert das World-of-Warcraft-Spiel mit persönlichen Geschichten. Er beschreibt eine glückliche Mischung aus Gaming und kulinarischem Genuss, teilt positive Erlebnisse mit der Gilde und kündigt zukünftige Kooperationen an. |
+| 2025-12-21 20:47:44 | [Oh Hey :) Bald bin ich im Hardcore Event - war ein bisschen nicht da YEP](videos.7z#2649739313.md) | 12.843 | 01:17:50 | Nach langer Pause: Rückkehr zum Gaming geplant | Nach einer mehrmonatigen Pause wird eine Rückkehr zu den Aktivitäten vorbereitet. Fokus liegt auf einem anstehenden Event und der Wiederaufnahme von Gaming-Sessions. |
+| 2025-02-17 20:06:33 | [KCD2 BLIND TAG2 + COMFY REACTABEND :) WIEDER GESUND FRENS! !insta !dc](videos.7z#2383891974.md) | 18.490 | 05:12:10 | Ein erfolgreicher Tag für einen alten Bekannten | Es wurde ein langer Tag durchlebt, der mit einem gelungenen Diebstahl begann und die Wiederherstellung der Gesundheit brachte. Ein Held kehrte gesund zurück. |
+| 2025-02-16 19:23:14 | [WIEDER DAAA! - KCD2 BLIND ANSPIELEN + COMFY REACTABEND :) WIEDER GESUND FRENS! !insta !dc](videos.7z#2382976183.md) | 17.355 | 06:40:20 | Nach Krankheit zurück im mittelalterlichen Abenteuer | Nach längerer Pause wird ein episches Blind-Spiel von Kingdom Come: Deliverance 2 aufgenommen. Es geht um Flucht, Verrat und den Kampf ums Überleben in einer brutalen Welt. |
+| 2025-01-14 21:40:20 | [Mehr Tarkov - Questen/Khorovod](videos.7z#2353378607.md) | 21.639 | 03:52:11 | In Tarkov: Questen, Bosskämpfe und Mapwechsel | Es wurde über die Jagd nach Quests auf Shoreline und Streets berichtet. Eine systematische Vorgehensweise beim Bosskampf wurde erläutert. Es wurde auch über den mapabhängigen Wechsel zu PvE-Gefechten gesprochen. |

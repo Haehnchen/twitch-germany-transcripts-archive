@@ -1,0 +1,12 @@
+# ZDF – 2026
+
+[Jahresübersicht](../README.md) · [Alle Jahre](../../README.md)
+
+| Datum (Berliner Zeit) | Video | Aufrufe | Länge | Titel | Beschreibung |
+| --- | --- | ---: | ---: | --- | --- |
+| 2026-09-30 18:05:06 | [ALIENS?!?!?!?!? \| Terra X mit Harald Lesch &amp; Jana Steuer](videos.7z#2888139555.md) | 67.411 | 02:37:27 | Funkzeichen aus dem All: Ein Abend mit Harald Lesch und Jana Steuer | In einer zweistündigen Ausgabe wurde die Frage nach außerirdischem Leben anhand von Mathematik, Radioastronomie und dem Wow-Signal untersucht. Ein Live-Experiment und ein Alien-Ranking boten wissenschaftliche wie unterhaltsame Perspektiven. |
+| 2026-09-25 16:45:44 | [Terrain Reaction mit Maxim und Splashbrudda - Folge 1](videos.7z#2883626658.md) | 8.114 | 03:32:30 | Terrain-Regelwerk: 50-seitiges Handbuch vorgestellt | In einer Analyse der Spielshow wurde das umfangreiche Regelbuch des Formats präsentiert. Es wurden die Spielmechaniken, das Wirtschaftssystem und die Teamstrategien detailliert erläutert. |
+| 2026-09-10 16:30:23 | [Terra X: Abgetaucht mit Maxim und Uli Kunz ](videos.7z#2870397325.md) | 7.239 | 03:20:52 | Meeresbiologie und Umweltschutz: Ein Blick hinter die Kulissen | Uli Kunz, Meeresbiologe und Forschungstaucher, gibt Einblicke in seine Arbeit und die Bedeutung der Ozeane. |
+| 2026-09-05 19:52:36 | [QUIZ CHAMPION SPENDEN-CHALLENGE \| Rosemondy &amp; Timhorus \| !spenden !show !quizchampion !krebshilfe](videos.7z#2866137056.md) | 159.570 | 06:53:21 | Spendenmarathon mit Quiz-Duellen und Prominenten zugunsten der Krebshilfe | Ein unterhaltsamer Abend wurde für einen guten Zweck veranstaltet. Mit Quiz-Challenges, Gästen und interaktiven Spielen wurde um Spenden für die Krebshilfe geworben. |
+| 2026-09-01 16:45:17 | [📼 ZDFtapes mit Milo und Sterzik \| !commands 📼](videos.7z#2862455513.md) | 10.048 | 03:35:32 | Fahrschule im Fokus: Humor und Historie vereint | In einer unterhaltsamen Mischung aus Archivmaterial und persönlichen Erfahrungen wurde die Geschichte der Fahrschule beleuchtet. Von DDR-Nostalgie bis zum Trabi-Abi wurden verschiedene Facetten präsentiert. |
+| 2026-06-17 17:51:55 | [🌌 Harald Lesch, der Urknall und TWITCH \| LIVE \| Terra X Lesch &amp; Co 🌌](videos.7z#2798882402.md) | 81.284 | 02:59:38 | Physikalische Revolution: Harald Lesch lädt zur Live-Diskussion über Urknall und Kosmos | Harald Lesch und Astrophysikerin Jana Steuer widmen sich live auf Twitch der Entstehung unseres Universums. Experimente und aktuelle Forschungsergebnisse prägen den Abend. |

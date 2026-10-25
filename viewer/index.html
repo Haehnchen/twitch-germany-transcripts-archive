@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://cdn.jsdelivr.net 'wasm-unsafe-eval'; style-src 'self'; connect-src 'self' https://raw.githubusercontent.com https://cdn.jsdelivr.net; worker-src 'self' blob:; img-src 'self' data:; object-src 'none'; base-uri 'none'; form-action 'none'">
+  <meta name="description" content="Mirror der Twitch-Transkripte von legends.army. Jahresübersichten, Kanäle und Videotexte.">
+  <title>Twitch Deutschland Transkript Archiv</title>
+  <link rel="stylesheet" href="./style.css">
+  <script type="module" src="./app.mjs"></script>
+</head>
+<body>
+  <a class="skip-link" href="#content">Zum Inhalt</a>
+  <header class="site-header">
+    <a class="brand" href="#/README.md" aria-label="Archiv Startseite"><span class="brand-mark">LA</span><span>legends.army <strong>Transkript-Archiv</strong></span></a>
+    <nav class="header-links" aria-label="Externe Links"><a href="https://legends.army/" target="_blank" rel="noopener noreferrer">legends.army ↗</a><a id="repository-link" hidden target="_blank" rel="noopener noreferrer">Repository ↗</a><button id="settings-open" type="button">Datenquelle</button></nav>
+  </header>
+  <div class="shell">
+    <aside class="sidebar" aria-label="Archivnavigation">
+      <p class="sidebar-label">Archiv</p><a class="home-link" href="#/README.md">Alle Jahre</a>
+      <nav id="years" aria-label="Jahre"></nav>
+      <div id="toc-wrap" hidden><p class="sidebar-label">In diesem Video</p><nav id="toc" aria-label="Inhaltsverzeichnis"></nav></div>
+      <p class="source-label" id="source-label"></p>
+    </aside>
+    <main id="main">
+      <nav id="breadcrumbs" class="breadcrumbs" aria-label="Brotkrumennavigation"></nav>
+      <div class="document-tools">
+        <label class="filter" id="filter-wrap" hidden><span>Filtern</span><input id="filter" type="search" placeholder="Titel oder Kanal suchen …" autocomplete="off"></label>
+        <div class="tool-buttons"><button id="share" type="button" disabled>Link kopieren</button><button id="download-markdown" type="button" disabled>Markdown</button><button id="download-original" type="button" disabled>Originaldatei</button></div>
+      </div>
+      <div id="status" class="status" role="status" aria-live="polite"><span id="status-text">Archiv wird geöffnet …</span><button id="cancel" type="button" hidden>Abbrechen</button><button id="retry" type="button" hidden>Erneut versuchen</button><progress id="progress" hidden></progress></div>
+      <p id="filter-result" class="filter-result" hidden></p>
+      <article id="content" class="markdown" tabindex="-1"></article>
+      <footer>Texte von <a href="https://legends.army/" target="_blank" rel="noopener noreferrer">legends.army</a></footer>
+    </main>
+  </div>
+  <dialog id="settings">
+    <form id="settings-form" method="dialog">
+      <h2>Archiv auswählen</h2><p>Öffentliches GitHub-Repository mit den Archivdateien.</p>
+      <label>Repository<input id="repository-input" placeholder="owner/repository oder GitHub-URL" required autocomplete="off"></label>
+      <label>Branch<input id="branch-input" value="main" required autocomplete="off"></label>
+      <p id="settings-error" class="settings-error" role="alert"></p>
+      <div class="dialog-actions"><button id="settings-close" type="button">Schließen</button><button class="primary" type="submit">Archiv öffnen</button></div>
+    </form>
+  </dialog>
+</body>
+</html>

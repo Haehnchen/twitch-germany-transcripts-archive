@@ -1,0 +1,14 @@
+# DONofNYC – 2025
+
+[Jahresübersicht](../README.md) · [Alle Jahre](../../README.md)
+
+| Datum (Berliner Zeit) | Video | Aufrufe | Länge | Titel | Beschreibung |
+| --- | --- | ---: | ---: | --- | --- |
+| 2025-09-17 20:40:56 | [\#zombie \#😢 \#danke an alle](videos.7z#2568869236.md) | 18 | 01:54:40 | Mentaler Rückzug beim Gaming-Erlebnis | Während eines spielerischen Formats stand eine persönliche Stimmung im Vordergrund. Es wurde versucht, durch die digitale Aktivität eine gedankliche Auszeit zu finden. |
+| 2025-09-12 20:57:30 | [$$$ Wir gegen alle \[Warzone\] 💥💥💥💥💥💥](videos.7z#2564765199.md) | 8 | 00:43:45 | Verdächtige Präzision: Warzone-Spieler unter Cheating-Verdacht | Im Warzone-Modus wurden mehrmals französische Spieler mit auffälligem Verhalten beobachtet. Es wurden massive Vorwürfe wegen mutmaßlichem Hacking im Spiel geäußert. |
+| 2025-08-18 21:15:07 | [Gegen alle ohje Deutsch lost play😁😂](videos.7z#2543581812.md) | 32 | 03:55:08 | Actionreiches Warzone-Match: Teamwork und taktische Manöver im Fokus | In Call of Duty: Warzone liefert sich ein Team intensive Gefechte, erfüllt Aufträge und meistert Herausforderungen. Strategie und Kommunikation sind entscheidend. |
+| 2025-07-17 19:40:30 | [U36 Fight,  sshittttt Cod. Shitttttttt.](videos.7z#2515046168.md) | 1 | 00:32:55 | Call of Duty: Warzone – Probleme, Teamkämpfe und Sieg trotz Bugs | In Call of Duty: Warzone kämpft ein Team mit Waffen-Bugs und fehlenden Platten. Trotz Einschränkungen gelingt ein Sieg, doch Cheater-Vorwürfe kommen auf. |
+| 2025-07-14 18:50:39 | [U36 Fight,  sshittttt Cod. Shitttttttt.](videos.7z#2512341103.md) | 1 | 00:26:58 | Call of Duty: Warzone - Taktische Entscheidungen im Battle Royale | In Call of Duty: Warzone beeinflusst Gas die Taktik. Ein Aufklärungsüberflug wird benötigt, um Gegner zu orten. Verbündete Ausrüstung trifft ein. |
+| 2025-07-11 16:53:47 | [ZOMBIE HR](videos.7z#2509608710.md) | 2 | 00:42:00 | Gefährliche Mission in Warzone: Reue, erzwungene Wege und drohende Auslöschung | Ein Protagonist sieht sich in Call of Duty: Warzone mit einer schwierigen Aufgabe konfrontiert, nachdem er für ein Syndikat gearbeitet hat. Reue und Ungewissheit prägen seine Zukunft. |
+| 2025-06-28 19:38:46 | [3 Freunde gegen die Welt 🌍 \| Warzone Wahnsinn](videos.7z#2498378855.md) | 8 | 03:23:44 | Warzone-Action: Taktische Kämpfe, Zonenstrategie und riskante Fahrzeugmanöver | In Call of Duty: Warzone erleben drei Freunde intensive Feuergefechte, meistern Zonenstrategien und setzen riskante Fahrzeugmanöver ein, um sich gegen ihre Gegner durchzusetzen. |
+| 2025-06-23 18:39:09 | [gegen die Welt 🌍 \| Warzone Wahnsinn](videos.7z#2493861625.md) | 16 | 01:29:28 | Call of Duty: Warzone – Dynamische Teamarbeit im Kriegsgebiet | In Call of Duty: Warzone ist Teamwork entscheidend. Spieler koordinieren sich, bewegen sich gemeinsam durch das Kriegsgebiet und sichern Vorratsstationen für den Erfolg. |

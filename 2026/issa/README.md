@@ -1,0 +1,15 @@
+# Issa – 2026
+
+[Jahresübersicht](../README.md) · [Alle Jahre](../../README.md)
+
+| Datum (Berliner Zeit) | Video | Aufrufe | Länge | Titel | Beschreibung |
+| --- | --- | ---: | ---: | --- | --- |
+| 2026-05-12 04:08:54 | [\#1 POV / High Cortisol (DE/EN)](videos.7z#2769919878.md) | 27.609 | 06:31:00 | Spiegelung des Erlebnisses im ARC Raiders Spiel | Erlebnisbericht über intensive Kämpfe, emotionale Herausforderungen und gesundheitliche Beeinträchtigungen beim Spielen. Fokus auf Teamkommunikation und Frustration über unfaire Spielpraktiken. |
+| 2026-05-08 07:49:15 | [Stella CEO (DE/EN)](videos.7z#2766887924.md) | 32.963 | 05:53:51 | ARC Raiders: Taktische Einsatzplanung und Teamstrategien | Es wurde eine intensive Koordination im Spiel beobachtet. Es kam zu unglücklichen Fehlentscheidungen und Interessante Strategien mit Showstopper-Waffen. Der Fokus lag auf klarer Kommunikation und effektiven Taktiken. |
+| 2026-05-04 00:19:37 | [hi (DE/EN)](videos.7z#2763562447.md) | 23.514 | 05:39:10 | ARC Raiders: Taktik und Teamwork | Ein Blick in die Welt von ARC Raiders, wo strategisches Denken und Teamkooperation über Sieg oder Niederlage entscheiden. Erforsche die Meta des Spiels und wirksame Taktiken. |
+| 2026-05-03 02:03:55 | [hi (DE/EN)](videos.7z#2762798718.md) | 14.962 | 04:50:22 | ARC Raiders Gameplay mit strategischer Tiefe | Es wurde eine intensive Session mit dem Spiel ARC Raiders dokumentiert. Spieler kooperierten in Teams und entwickelten taktische Lösungen. Verschiedene Herausforderungen wurden bewältigt und die Gemeinschaft war aktiv beteiligt. |
+| 2026-04-24 19:05:33 | [hi (DE/EN)](videos.7z#2755996255.md) | 15.637 | 04:50:30 | Loot-Strategien in ARC-Raids analysiert | Es wurden vertiefte Untersuchungen zu Verteilungssystemen und Beutemechanismen in ARC Raiders durchgeführt. Der Fokus lag auf fairem Ausgleich. |
+| 2026-04-23 23:01:15 | [short stream (DE/EN)](videos.7z#2755383961.md) | 8.135 | 03:06:46 | ARC Raiders: Spieler kämpfen durch neue Maps | Ein intensiver Kampf gegen Gegner und cheaterverdächtige Spieler in ARC Raiders. Spieler diskutieren über Waffenstrategien und die Zukunft des Spiels. |
+| 2026-03-22 17:27:26 | [🔴Tag 2 - 250k $ Amar Lost-Legends Cup🔴 W/  @niklaswilson @krokoboss @fastroki / (DE/EN)](videos.7z#2729033357.md) | 65.379 | 05:25:01 | 250.000-Dollar-Turnier im Fortnite-Modus | Es wurde der Amar Lost-Legends Cup ausgespielt, bei dem ein Team um die 250.000-Dollar-Premie kämpfte. Der Fokus lag auf strategischen Entscheidungen. |
+| 2026-03-21 17:17:26 | [hi](videos.7z#2728138583.md) | 49.183 | 05:34:47 | Erneuter Comeback-Versuch mit eSports-Plänen | Nach einer Pause kehrt eine Person ins Gaming-Geschehen zurück und stellt sich mit einem Team für ein Turnier bereit. Sie berichtet von persönlichen Erlebnissen und prophezeit, ihre längere Abwesenheit bald zu erklären. |
+| 2026-03-15 15:25:55 | [hi](videos.7z#2723036602.md) | 19.656 | 06:52:16 | ARC Raiders: In Kooperation und Frustration | Es wurde gespielt, während gesundheitliche Belastungen und der Ärger über unfaire Spieler die Stimmung trübten. Ein Team koordinierte die Beute. |

@@ -1,0 +1,12 @@
+# GRONKH – 2025
+
+[Jahresübersicht](../README.md) · [Alle Jahre](../../README.md)
+
+| Datum (Berliner Zeit) | Video | Aufrufe | Länge | Titel | Beschreibung |
+| --- | --- | ---: | ---: | --- | --- |
+| 2025-12-06 14:31:11 | [FRiENDLY FiRE 11 😊🔥 Start 15 Uhr 🔥 !friendlyfire](videos.7z#2636854210.md) | 1.557.065 | 12:37:47 | Bewertungsspiele und Quiz-Duelle stehen an | Es wurden mehrere Runden von Bewertungsspielen mit skurrilen Begriffen und einem Community-Quiz durchgeführt. Beim Quiz ging es um Gaming-Wissen. |
+| 2025-08-24 19:06:39 | [STREAMSTART HEUTE UM 19 UHR, HAB VERPENNT ⭐ 24/7 auf @GronkhTV ⭐ !shop !archiv !pc](videos.7z#2548680878.md) | 324.477 | 07:47:51 | Gaming-Show mit Zukunftsprojekten vorgestellt | Bei der Future Gaming Show wurden zahlreiche neue Spiele und Entwicklungen präsentiert. Ein besonderer Fokus lag auf innovativen RPG-Elementen und vielversprechenden Titeln. |
+| 2025-06-08 16:00:06 | [TAG 3 des Summer Game Festivals gemeinsam mit @PhunkRoyal 🎮 Start 16/17 Uhr 🎮 !shop !archiv !pc](videos.7z#2480508168.md) | 528.283 | 13:44:00 | Dritter Tag des Summer Game Festivals mit Gronkh | Es wurde der dritte Tag des Summer Game Festivals mit Gronkh begleitet, bei dem zahlreiche Spiele vorgestellt und diskutiert wurden. Ein besonderer Fokus lag auf deutschen Indie-Titeln und vielversprechenden neuen Ankündigungen. |
+| 2025-06-08 00:05:24 | [TAG 2 des Summer Game Festivals gemeinsam mit @PhunkRoyal 🎮 !shop !archiv !pc](videos.7z#2479953629.md) | 98.735 | 03:06:55 | Gronkh &amp; PhunkRoyal im Gaming-Fokus | Am zweiten Tag des Summer Game Festivals wurde gemeinsam eine Auswahl von Spielen präsentiert. Dabei wurden sowohl neue Ankündigungen als auch persönliche Eindrücke ausgetauscht. |
+| 2025-06-07 15:53:01 | [TAG 2 des Summer Game Festivals gemeinsam mit @PhunkRoyal 🎮 Start 16/17 Uhr 🎮 !shop !archiv !pc](videos.7z#2479547114.md) | 327.032 | 08:11:13 | Summer Game Festival geht in den zweiten Tag | Nach aufregendem erstem Tag des Summer Game Festivals werden weitere Events wie Wholesome Direct und Future Game Show erwartet. |
+| 2025-03-20 17:58:12 | [ASSASSIN'S CREED SHADOWS \[Drops aktiv\] !acs // Future Games Show ⭐ 24/7 auf @GronkhTV ⭐ !shop !archiv !pc](videos.7z#2410710270.md) | 373.327 | 10:05:42 | Neues Assassin's Creed Spiel vorgestellt | Ein neues Assassin's Creed Spiel namens Shadows wurde vorgestellt. Die Spielwelt im Japan des 16. Jahrhunderts beeindruckt mit detailreichen Landschaften und Herausforderungen im Stealth-Gameplay. |

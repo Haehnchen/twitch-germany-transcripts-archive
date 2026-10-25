@@ -1,0 +1,12 @@
+# abugoku9999 – 2025
+
+[Jahresübersicht](../README.md) · [Alle Jahre](../../README.md)
+
+| Datum (Berliner Zeit) | Video | Aufrufe | Länge | Titel | Beschreibung |
+| --- | --- | ---: | ---: | --- | --- |
+| 2025-12-17 15:23:43 | [TNT AUF FITNA CRAFT  🟥 !YAUMMI 🟥 !GÖNRGY 🟥 !KC 🟥 !WL 🟥 \#ᴡᴇʀʙᴜɴɢ](videos.7z#2646164413.md) | 98.298 | 08:26:30 | Minecraft: Zerstörung und Regeldebatte nach Sprengung | Ein Haus wird mit TNT zerstört, was zu Konflikten und Eskalationen führt. Echtgeld-Angebote führen zu Banns und Kritik an der Server-Kultur. |
+| 2025-11-14 14:17:53 | [\[X-RP\] BTC RP 🟥 !YAUMMI 🟥 !GÖNRGY 🟥 !KC 🟥 !WL 🟥 \#ᴡᴇʀʙᴜɴɢ](videos.7z#2618139265.md) | 93.778 | 09:13:06 | Polizeieinsätze und Bandenkriege in Los Santos | Es wurde eine chaotische Polizeiverfolgung mit Festnahmen durchgeführt. Zudem eskalierten Konflikte zwischen kriminellen Familien, was zu einem geplanten Banküberfall führte. |
+| 2025-11-06 20:19:49 | [\[ X RP \] BTC RP 🟥 !YAUMMI 🟥 !GÖNRGY 🟥 !KC 🟥 !WL 🟥 \#ᴡᴇʀʙᴜɴɢ](videos.7z#2611411207.md) | 52.289 | 04:30:45 | Machtkampf in der Stadt: Familienring räumt auf | In einer Krisensitzung wurden mehrere Familien zur Rede gestellt. Für Fehlverhalten und mangelnde Aktivität wurden drastische Konsequenzen angedroht. Ein neues Machtgremium kontrolliert die Zukunft der Familien. |
+| 2025-02-26 19:17:09 | [\[GTA-ROLEPLAY\] CALI PACKT FAMILIEN ≠ᴡᴇʀʙᴜɴɢ](videos.7z#2391787496.md) | 52.669 | 03:21:28 | Cali-Familie im Fokus: Konflikte, Verhandlungen und neue Herausforderungen | In der Welt von GTA-Roleplay spitzen sich Konflikte zu. Es kommt zu Verhandlungen, neuen Vorstellungen und Ablehnungen. Eine Familiendynamik steht dabei im Mittelpunkt. |
+| 2025-02-25 19:10:21 | [MOIN MOIN! 🟩 !KINGCANS 🟩 !RAZER 🟩 !HEADSET 🟩 !KORO 🟩 !KARTEN 🟩 ≠ᴡᴇʀʙᴜɴɢ](videos.7z#2390944833.md) | 98.996 | 05:31:34 | Machtkampf: Rommel fordert Mr. Bitcoin heraus – Eskalation in Gang-Kreisen? | Spannungen erreichen Siedepunkt, als Rommel eine Machtdemonstration gegen Mr. Bitcoin inszeniert. Was steckt hinter der Konfrontation und welche Folgen hat sie? |
+| 2025-02-24 18:57:24 | [MOIN! 🟩 !KINGCANS 🟩 !RAZER 🟩 !HEADSET 🟩 !KORO 🟩 ≠ᴡᴇʀʙᴜɴɢ](videos.7z#2390096330.md) | 71.496 | 04:10:24 | Machtkämpfe, Code-Diebstahl und das drohende Ende von 5M in GTA 5 | Interne Konflikte, Übernahmen und wirtschaftliche Probleme führen zu Spannungen. Diskussionen um Routen, Ressourcen und Loyalitäten prägen die aktuelle Lage. |
