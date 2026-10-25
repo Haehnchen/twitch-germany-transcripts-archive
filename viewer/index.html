@@ -14,14 +14,13 @@
   <a class="skip-link" href="#content">Zum Inhalt</a>
   <header class="site-header">
     <a class="brand" href="#/README.md" aria-label="Archiv Startseite"><span class="brand-mark">LA</span><span>legends.army <strong>Transkript-Archiv</strong></span></a>
-    <nav class="header-links" aria-label="Externe Links"><a href="https://legends.army/" target="_blank" rel="noopener noreferrer">legends.army ↗</a><a id="repository-link" hidden target="_blank" rel="noopener noreferrer">Repository ↗</a><button id="settings-open" type="button">Datenquelle</button></nav>
+    <nav class="header-links" aria-label="Externe Links"><a href="https://legends.army/" target="_blank" rel="noopener noreferrer">legends.army ↗</a><a id="repository-link" hidden target="_blank" rel="noopener noreferrer">Repository ↗</a></nav>
   </header>
   <div class="shell">
     <aside class="sidebar" aria-label="Archivnavigation">
       <p class="sidebar-label">Archiv</p><a class="home-link" href="#/README.md">Alle Jahre</a>
       <nav id="years" aria-label="Jahre"></nav>
       <div id="toc-wrap" hidden><p class="sidebar-label">In diesem Video</p><nav id="toc" aria-label="Inhaltsverzeichnis"></nav></div>
-      <p class="source-label" id="source-label"></p>
     </aside>
     <main id="main">
       <nav id="breadcrumbs" class="breadcrumbs" aria-label="Brotkrumennavigation"></nav>
@@ -35,14 +34,5 @@
       <footer>Texte von <a href="https://legends.army/" target="_blank" rel="noopener noreferrer">legends.army</a></footer>
     </main>
   </div>
-  <dialog id="settings">
-    <form id="settings-form" method="dialog">
-      <h2>Archiv auswählen</h2><p>Öffentliches GitHub-Repository mit den Archivdateien.</p>
-      <label>Repository<input id="repository-input" placeholder="owner/repository oder GitHub-URL" required autocomplete="off"></label>
-      <label>Branch<input id="branch-input" value="main" required autocomplete="off"></label>
-      <p id="settings-error" class="settings-error" role="alert"></p>
-      <div class="dialog-actions"><button id="settings-close" type="button">Schließen</button><button class="primary" type="submit">Archiv öffnen</button></div>
-    </form>
-  </dialog>
 </body>
 </html>

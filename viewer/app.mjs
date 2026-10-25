@@ -6,7 +6,6 @@ const MAX_DOWNLOAD = 100 * 1024 * 1024;
 const documentCache = new Map();
 const archiveCache = new Map();
 let source, current, active, revision = 0;
-const preferenceKey = `legends-archive:${location.pathname}`;
 
 export function normalizePath(value) {
   if (typeof value !== 'string' || !value || value.length > 1024 || /[\\\x00-\x1f\x7f]/.test(value)) throw new Error('Ungültiger Archivpfad.');
@@ -252,36 +251,16 @@ async function navigate() {
   }
 }
 
-function parseRepository(value) {
-  const cleaned = value.trim().replace(/^https:\/\/github\.com\//i, '').replace(/\/$/, '').replace(/\.git$/, '');
-  if (!/^[A-Za-z0-9_.-]+\/[A-Za-z0-9_.-]+$/.test(cleaned)) throw new Error('Bitte owner/repository oder eine GitHub-URL angeben.');
-  return cleaned;
-}
-
 async function configure() {
-  const params = new URLSearchParams(location.search);
-  if (['localhost', '127.0.0.1', '[::1]'].includes(location.hostname) && params.get('data')) {
-    const base = new URL(params.get('data'), location.origin);
-    if (base.origin !== location.origin) throw new Error('Lokale Datenquelle muss denselben Ursprung verwenden.');
-    source = { base: base.href.endsWith('/') ? base.href : base.href + '/', label: 'Lokales Archiv' };
-  } else {
-    let config = {};
-    try { config = await fetch('./repository.json').then(response => response.ok ? response.json() : {}); } catch {}
-    let saved = {};
-    try { saved = JSON.parse(localStorage.getItem(preferenceKey) || '{}'); } catch {}
-    let repository = params.get('repo') || saved.repository || config.repository;
-    if (!repository && location.hostname.endsWith('.github.io')) {
-      const owner = location.hostname.split('.')[0]; const project = location.pathname.split('/').filter(Boolean)[0];
-      repository = owner + '/' + (project || owner + '.github.io');
-    }
-    if (!repository) { status('Bitte ein Archiv-Repository auswählen.'); $('settings').showModal(); return; }
-    repository = parseRepository(repository);
-    const branch = params.get('ref') || saved.branch || config.branch || 'main';
-    source = { repository, branch, label: repository, base: `https://raw.githubusercontent.com/${repository}/${encodeURIComponent(branch)}/` };
-    $('repository-link').href = 'https://github.com/' + repository; $('repository-link').hidden = false;
-    $('repository-input').value = repository; $('branch-input').value = branch;
+  const response = await fetch('./repository.json');
+  if (!response.ok) throw new Error('Das Archiv konnte nicht geladen werden.');
+  const { repository, branch } = await response.json();
+  if (typeof repository !== 'string' || !/^[A-Za-z0-9_.-]+\/[A-Za-z0-9_.-]+$/.test(repository) || typeof branch !== 'string' || !branch.trim()) {
+    throw new Error('Das Archiv ist nicht korrekt konfiguriert.');
   }
-  $('source-label').textContent = source.label;
+  source = { repository, branch, base: `https://raw.githubusercontent.com/${repository}/${encodeURIComponent(branch)}/` };
+  $('repository-link').href = 'https://github.com/' + repository;
+  $('repository-link').hidden = false;
   void loadYears();
   await navigate();
 }
@@ -297,7 +276,10 @@ $('filter').addEventListener('input', () => {
   for (const row of rows) { row.hidden = !row.textContent.toLocaleLowerCase('de-DE').includes(term); if (!row.hidden) visible++; }
   $('filter-result').hidden = !term; $('filter-result').textContent = `${visible} von ${rows.length} Einträgen`;
 });
-$('retry').addEventListener('click', () => void navigate());
+$('retry').addEventListener('click', () => {
+  if (source) void navigate();
+  else void configure().catch(error => status(error.message, { error: true }));
+});
 $('cancel').addEventListener('click', () => active?.abort());
 $('share').addEventListener('click', async () => {
   try { await navigator.clipboard.writeText(location.href); status('Link kopiert.'); } catch { status('Der Link steht in der Adresszeile und kann dort kopiert werden.'); }
@@ -312,16 +294,5 @@ $('download-original').addEventListener('click', async () => {
   } catch (error) { status(error.message, { error: true }); }
 });
 document.querySelector('.skip-link').addEventListener('click', event => { event.preventDefault(); $('content').focus(); $('content').scrollIntoView(); });
-$('settings-open').addEventListener('click', () => $('settings').showModal());
-$('settings-close').addEventListener('click', () => $('settings').close());
-$('settings-form').addEventListener('submit', event => {
-  event.preventDefault();
-  try {
-    const repository = parseRepository($('repository-input').value);
-    const branch = $('branch-input').value.trim(); if (!branch) throw new Error('Bitte einen Branch angeben.');
-    try { localStorage.setItem(preferenceKey, JSON.stringify({ repository, branch })); } catch {}
-    const url = new URL(location.href); url.searchParams.delete('data'); url.searchParams.set('repo', repository); url.searchParams.set('ref', branch); url.hash = '/README.md'; location.href = url.href;
-  } catch (error) { $('settings-error').textContent = error.message; }
-});
 window.addEventListener('hashchange', () => void navigate());
 void configure().catch(error => status(error.message, { error: true }));
